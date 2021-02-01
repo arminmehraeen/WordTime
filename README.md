@@ -2,7 +2,6 @@
 Online World Clock app using Flutter
 <div>
   <img src="https://github.com/arminmehraeen/WordTime/blob/main/Photos/logo.png" width="100">
-  <h3>WordTime App<h3>
 </div>
 <div>
   <img src="https://github.com/arminmehraeen/WordTime/blob/main/Photos/img_1.jpeg" width="250">
